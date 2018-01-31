@@ -1,0 +1,48 @@
+$color: #262828;
+
+body {
+  color: $color;
+}
+
+h2{
+	color: red;
+}
+#detail {
+  float : right;
+}
+#customer {
+  color : red;
+}
+#salesman {
+  color : blue;
+}
+#cargando {
+  position: absolute;
+  top:20%;
+  left:40%;
+}
+#detalles {
+  position: absolute;
+  top:20%;
+  left:60%;
+}
+#detalles2 {
+  display:scroll;
+  position:fixed;
+  botton:320px;
+  right:200px;
+}
+#noVisitas {
+  display:scroll;
+  position:fixed;
+  botton:320px;
+  right:200px;;
+}
+#lista {
+  overflow: scroll;
+  height: 800px;
+  width: 35%;
+}
+.boton {
+  width : 100%;
+}
